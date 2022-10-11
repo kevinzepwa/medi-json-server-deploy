@@ -16,12 +16,6 @@
           "day": "Mon",
           "month": "Jan",
           "year": "2022"
-        },
-        {
-          "time": "11:00am",
-          "day": "Tue",
-          "month": "Jan",
-          "year": "2022"
         }
       ]
     },
@@ -60,12 +54,6 @@
           "day": "Mon",
           "month": "Jan",
           "year": "2022"
-        },
-        {
-          "time": "11:00am",
-          "day": "Wed",
-          "month": "Jan",
-          "year": "2022"
         }
       ]
     },
@@ -83,12 +71,6 @@
         {
           "time": "12:00pm",
           "day": "Thu",
-          "month": "Jan",
-          "year": "2022"
-        },
-        {
-          "time": "11:00am",
-          "day": "Tue",
           "month": "Jan",
           "year": "2022"
         }
@@ -110,12 +92,6 @@
           "day": "Fri",
           "month": "Jan",
           "year": "2022"
-        },
-        {
-          "time": "11:00am",
-          "day": "Tuesday",
-          "month": "Jan",
-          "year": "2022"
         }
       ]
     },
@@ -130,12 +106,6 @@
       "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
       "city": "Kijabe",
       "available": [
-        {
-          "time": "12:00pm",
-          "day": "Sun",
-          "month": "Jan",
-          "year": "2022"
-        },
         {
           "time": "11:00am",
           "day": "Wed",
@@ -160,12 +130,6 @@
           "day": "Sat",
           "month": "Jan",
           "year": "2022"
-        },
-        {
-          "time": "11:00am",
-          "day": "Tue",
-          "month": "Jan",
-          "year": "2022"
         }
       ]
     },
@@ -180,12 +144,6 @@
       "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
       "city": "Narok",
       "available": [
-        {
-          "time": "12:00pm",
-          "day": "Mon",
-          "month": "Jan",
-          "year": "2022"
-        },
         {
           "time": "11:00am",
           "day": "Thu",
@@ -205,12 +163,6 @@
       "address": "795 Folsom Ave, Suite 600 San Francisco, CADGE 94107",
       "city": "Kisumu",
       "available": [
-        {
-          "time": "8:00am",
-          "day": "Sat",
-          "month": "May",
-          "year": "2022"
-        },
         {
           "time": "9:00am",
           "day": "Fri",
